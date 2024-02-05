@@ -1,0 +1,14 @@
+{
+  "name": "a3918ea4a53d0787",
+  "main": "a3918ea4a53d0787@338.js",
+  "version": "338.0.0",
+  "homepage": "https://observablehq.com/d/a3918ea4a53d0787",
+  "author": {
+    "name": "AlexP's Workspace",
+    "url": "https://observablehq.com/@alexp4-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
