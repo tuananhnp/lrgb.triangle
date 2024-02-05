@@ -75,7 +75,7 @@ function _triangle_simple(DOM,bg,culori,rgb)
 function _rgb(form,html){return(
 form(html`<form>
 <input name="c1" type='color' value='#ff0000'/>
-<input name="c3" type='color' value='#ffff00'/>
+<input name="c3" type='color' value='#ffffff'/>
 <input name="c2" type='color' value='#0000ff'/>
 </form>`)
 )}
